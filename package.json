@@ -2,11 +2,6 @@
   "name": "phase-0-js-css-layouts-lab",
   "version": "1.0.0",
   "main": "index.js",
-
-"jest": {
-  "verbose": true,
-  "testURL": "http://localhost/"
-},
   "scripts": {
     "test": "jest"
   },
